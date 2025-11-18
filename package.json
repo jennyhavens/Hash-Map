@@ -1,0 +1,23 @@
+{
+  "name": "hash-map",
+  "version": "1.0.0",
+  "description": "",
+
+  "main": "hashMap.js",
+  "scripts": {
+    "start": "node hashMap.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennyhavens/Hash-Map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jennyhavens/Hash-Map/issues"
+  },
+  "homepage": "https://github.com/jennyhavens/Hash-Map#readme"
+}
